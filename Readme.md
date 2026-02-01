@@ -15,15 +15,7 @@ Soy un **estudiante de Ingeniería de Sistemas** apasionado por la tecnología *
 
 Actualmente trabajo en **My Vita**, un pastillero inteligente IoT que ayuda a mejorar la adherencia terapéutica en adultos mayores mediante tecnología de vanguardia.
 
-```javascript
-const edgar = {
-    ubicacion: "Tampico, Tamaulipas, México",
-    rol: "Estudiante de Ingeniería de Sistemas",
-    especialidades: ["IoT", "Desarrollo Mobile", "Sistemas Embebidos"],
-    aprendiendo: ["Apache Cordova", "ESP32", "Arduino"],
-    pasatiempos: ["Tecnología", "Innovación", "Resolver Problemas"]
-};
-```
+
 
 <div align="center">
   
@@ -200,7 +192,7 @@ Bases de Datos            ███████████████░░░
 - 🤝 Buscando colaborar en proyectos de **IoT** y **salud digital**
 - 👯 Abierto a oportunidades de **prácticas profesionales**
 - 💬 Pregúntame sobre **Arduino, ESP32, Apache Cordova**
-- 📫 Cómo contactarme: **edgar.azcari@example.com**
+- 📫 Cómo contactarme: **edagarperez43@gmail.com**
 - ⚡ Dato curioso: Me apasiona crear tecnología que mejore la vida de las personas
 - 🎓 Estudiante de **Ingeniería de Sistemas Computacionales**
 

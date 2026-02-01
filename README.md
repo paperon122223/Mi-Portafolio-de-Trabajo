@@ -1,8 +1,8 @@
-
+# 👋 ¡Hola! Soy Edgar Azcari
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=00E5B8&height=200&section=header&text=Edgar%20Azcari&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20IoT%20%7C%20Estudiante%20de%20Ingeniería&descAlignY=55&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=00E5B8&height=200&section=header&text=Edgar%20Azcari&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20IoT%20%7C%20Estudiante%20de%20Ingeniería&descAlignY=58&descAlign=50)
 
   [![GitHub followers](https://img.shields.io/github/followers/paperon122223?style=for-the-badge&color=00E5B8&labelColor=0A0E27)](https://github.com/paperon122223)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00E5B8?style=for-the-badge&logo=linkedin&labelColor=0A0E27)](https://www.linkedin.com/in/edgar-azcari-pérez-garcía-6468822b6)
@@ -15,7 +15,15 @@ Soy un **estudiante de Ingeniería de Sistemas** apasionado por la tecnología *
 
 Actualmente trabajo en **My Vita**, un pastillero inteligente IoT que ayuda a mejorar la adherencia terapéutica en adultos mayores mediante tecnología de vanguardia.
 
-
+```javascript
+const edgar = {
+    ubicacion: "Tampico, Tamaulipas, México",
+    rol: "Estudiante de Ingeniería de Sistemas",
+    especialidades: ["IoT", "Desarrollo Mobile", "Sistemas Embebidos"],
+    aprendiendo: ["Apache Cordova", "ESP32", "Arduino"],
+    pasatiempos: ["Tecnología", "Innovación", "Resolver Problemas"]
+};
+```
 
 <div align="center">
   
@@ -198,6 +206,17 @@ Bases de Datos            ███████████████░░░
 
 <br clear="right"/>
 
+---
+
+## 🏆 Logros de GitHub
+
+<div align="center">
+  
+  ![Trofeos](https://github-profile-trophy.vercel.app/?username=paperon122223&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+
+</div>
+
+---
 
 ## 📈 Actividad Reciente
 
@@ -216,10 +235,12 @@ Bases de Datos            ███████████████░░░
   <a href="https://github.com/paperon122223">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:edgagarperez43@gmail.com">
+  <a href="mailto:edgar.azcari@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
+  <a href="https://twitter.com/tuusuario">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   
 </div>
 
@@ -228,7 +249,7 @@ Bases de Datos            ███████████████░░░
   
   ### 📫 ¿Tienes un proyecto en mente? ¡Hablemos!
   
-  <a href="mailto:edagarperez43@gmail.com">
+  <a href="mailto:edgar.azcari@example.com">
     <img src="https://img.shields.io/badge/Envíame_un_Email-00E5B8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
